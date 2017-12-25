@@ -7,7 +7,7 @@ namespace PhpZendo;
 * 抽奖算法
 * 
 * @version 1.0 2017-05-17
-* @author huliuqing huiuqing@droi.com
+* @author huliuqing huiuqing1989@gmail.com
 */
 class Lottery
 {
